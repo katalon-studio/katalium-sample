@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="simple" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <classes>
+            <class name="com.katalon.kata.sample.simple.MakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="parameterize" >
+        <parameter name="kataDisableScreenshot" value="true" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+</suite>
