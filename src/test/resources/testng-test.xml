@@ -1,0 +1,375 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+
+    <test name="1" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="2" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="3" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="4" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="5" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="6" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="7" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="8" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="9" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="10" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="11" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="12" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="13" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="14" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="15" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="16" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="17" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="18" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="19" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="20" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="21" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="22" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="23" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="24" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="25" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="26" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="27" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="28" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="29" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="30" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="31" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="32" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="33" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="34" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="35" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="36" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+
+    <test name="37" >
+        <parameter name="kataDisableScreenshot" value="false" />
+        <parameter name="facility" value="Hongkong CURA Healthcare Center" />
+        <parameter name="visitDate" value="27/12/2016" />
+        <parameter name="comment" value="Please make appointment as soon as possible." />
+        <classes>
+            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+        </classes>
+    </test>
+</suite>
