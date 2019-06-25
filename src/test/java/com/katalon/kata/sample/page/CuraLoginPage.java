@@ -15,8 +15,8 @@ public class CuraLoginPage extends PageTemplate {
   @FindBy(id = "btn-login")
   private WebElement loginBtn;
 
-
   public void login(String username, String password) {
+    log.info("Log in.");
     usernameInput.sendKeys(username);
     passwordInput.sendKeys(password);
     loginBtn.click();

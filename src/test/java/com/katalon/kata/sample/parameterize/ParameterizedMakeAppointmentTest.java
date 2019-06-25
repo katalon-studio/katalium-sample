@@ -13,8 +13,6 @@ import org.testng.annotations.Test;
 
 public class ParameterizedMakeAppointmentTest extends TestTemplate {
 
-  private static final Logger log = LogHelper.getLogger();
-
   private CuraHomePage curaHomePage = new CuraHomePage(Constants.baseUrl);
 
   private CuraLoginPage loginPage;
@@ -33,7 +31,7 @@ public class ParameterizedMakeAppointmentTest extends TestTemplate {
     curaHomePage.open();
     curaHomePage.makeAppointment();
     loginPage.login(Constants.username, Constants.password);
-    curaAppoinmentPage.fillApointmentDetails(facility, visitDate, comment);
+    curaAppoinmentPage.fillAppointmentDetails(facility, visitDate, comment);
     curaAppointmentConfirmPage.checkInformation(facility, visitDate, comment);
     driver.quit();
   }

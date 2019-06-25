@@ -1,2 +1,2 @@
-com.katalon.kata.sample.saucelabs.SauceLabsConfigurer
+com.katalon.kata.sample.custombrowser.SauceLabsConfigurer
 com.katalon.kata.sample.listener.EventListener

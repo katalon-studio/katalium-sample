@@ -9,8 +9,6 @@ import com.katalon.kata.helper.LogHelper;
 
 public class WebDriverEventListener extends AbstractWebDriverEventListener {
 
-  private static final Logger log = LogHelper.getLogger();
-
   public void beforeClickOn(WebElement element, WebDriver driver) {
 
   }
