@@ -20,9 +20,9 @@ public class SampleSauceLabsWebDriverFactory implements WebDriverFactory {
 
     private static final String PLATFORM_KEY = "saucePlatform";
 
-    private static final String SAUCE_USER_NAME_KEY = "SAUCE_USERNAME";
+    private static final String SAUCE_USER_NAME_KEY = "sauceUsername";
 
-    private static final String SAUCE_ACCESS_KEY_KEY = "SAUCE_ACCESS_KEY";
+    private static final String SAUCE_ACCESS_KEY_KEY = "sauceAccessKey";
 
     private static final String SAUCE_URL = "https://ondemand.saucelabs.com/wd/hub";
 
