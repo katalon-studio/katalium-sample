@@ -1,4 +1,4 @@
-package com.katalon.kata.sample.parameterize;
+package com.katalon.kata.sample.testcase.parameterize;
 
 import com.katalon.kata.helper.LogHelper;
 import com.katalon.kata.sample.Constants;

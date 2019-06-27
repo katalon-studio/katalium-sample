@@ -1,4 +1,4 @@
-package com.katalon.kata.sample.simple;
+package com.katalon.kata.sample.testcase.simple;
 
 import com.katalon.kata.sample.Constants;
 import com.katalon.kata.sample.page.CuraAppoinmentPage;
