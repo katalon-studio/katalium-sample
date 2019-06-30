@@ -2,10 +2,8 @@ package com.katalon.kata.sample.custombrowser;
 
 import com.katalon.kata.helper.ExceptionHelper;
 import com.katalon.kata.helper.ParameterHelper;
-import com.katalon.kata.webdriver.AbstractWebDriverFactory;
 import com.katalon.kata.webdriver.WebDriverFactory;
 import org.apache.commons.lang3.StringUtils;
-import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
