@@ -6,7 +6,7 @@
         <parameter name="kataScreenshot" value="true" />
         <parameter name="kataBrowser" value="firefox" />
         <classes>
-            <class name="com.katalon.kata.sample.simple.MakeAppointmentTest" />
+            <class name="com.katalon.kata.sample.testcase.simple.MakeAppointmentTest" />
         </classes>
     </test>
 
@@ -16,7 +16,7 @@
         <parameter name="visitDate" value="27/12/2016" />
         <parameter name="comment" value="Please make appointment as soon as possible." />
         <classes>
-            <class name="com.katalon.kata.sample.parameterize.ParameterizedMakeAppointmentTest" />
+            <class name="com.katalon.kata.sample.testcase.parameterize.ParameterizedMakeAppointmentTest" />
         </classes>
     </test>
 </suite>
