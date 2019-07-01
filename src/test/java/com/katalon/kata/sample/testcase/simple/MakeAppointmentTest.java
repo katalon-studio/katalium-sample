@@ -19,7 +19,7 @@ public class MakeAppointmentTest extends TestTemplate {
   private CuraAppointmentConfirmPage curaAppointmentConfirmPage;
 
   @Test
-  public void shoudMakeAppointment() {
+  public void shouldMakeAppointment() {
     curaHomePage.open();
     curaHomePage.makeAppointment();
     loginPage.login(Constants.username, Constants.password);
