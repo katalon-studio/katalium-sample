@@ -1,0 +1,1 @@
+git archive --format zip --output katalium-sample.zip  master

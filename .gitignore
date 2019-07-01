@@ -21,3 +21,5 @@ target
 **/testng-results.xml
 
 .mvn
+
+katalium-sample.zip
