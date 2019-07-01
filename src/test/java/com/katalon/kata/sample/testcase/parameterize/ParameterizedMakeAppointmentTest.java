@@ -1,13 +1,11 @@
 package com.katalon.kata.sample.testcase.parameterize;
 
-import com.katalon.kata.helper.LogHelper;
 import com.katalon.kata.sample.Constants;
 import com.katalon.kata.sample.page.CuraAppoinmentPage;
 import com.katalon.kata.sample.page.CuraAppointmentConfirmPage;
 import com.katalon.kata.sample.page.CuraHomePage;
 import com.katalon.kata.sample.page.CuraLoginPage;
 import com.katalon.kata.testng.TestTemplate;
-import org.slf4j.Logger;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 

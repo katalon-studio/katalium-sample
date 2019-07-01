@@ -1,8 +1,7 @@
 package com.katalon.kata.sample.listener;
 
-import org.testng.IExecutionListener;
-
 import com.katalon.kata.webdriver.WebDriverPool;
+import org.testng.IExecutionListener;
 
 public class EventListener implements IExecutionListener {
   @Override
