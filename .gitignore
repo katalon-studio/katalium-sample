@@ -20,6 +20,4 @@ target
 # TestNG Reports
 **/testng-results.xml
 
-.mvn
-
 katalium-sample.zip
