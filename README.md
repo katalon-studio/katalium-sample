@@ -9,3 +9,5 @@ The framework is designed to be lightweight. Standard functions of TestNG, Selen
 Please visit our [documentation](https://docs.katalon.com/katalium-framework/docs/katalium-framework-overview.html) page for detailed instructions.
 
 Katalium is open-sourced at https://github.com/katalon-studio/katalium.
+
+Katalium Server is open-sourced  https://github.com/katalon-studio/katalium-server.
