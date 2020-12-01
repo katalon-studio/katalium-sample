@@ -25,7 +25,7 @@ public class CuraAppointmentConfirmPage extends PageTemplate {
 
   public void checkInformation(String facility, String visitDate, String comment) {
     log.info("Confirm information.");
-    waitUtil(ExpectedConditions.visibilityOf(facilityLabel));
+    waitUntil(ExpectedConditions.visibilityOf(facilityLabel));
     Assert.assertEquals(facilityLabel.getText(), facility);
     Assert.assertEquals(hospitalReadMissionLabel.getText(), "Yes");
     Assert.assertEquals(programLabel.getText(), "Medicaid");

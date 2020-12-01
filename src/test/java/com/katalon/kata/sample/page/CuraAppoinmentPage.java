@@ -47,7 +47,7 @@ public class CuraAppoinmentPage extends PageTemplate {
 
   public void fillAppointmentDetails(String facility, String visitDate, String comment) {
     log.info("Fill appointment details.");
-    waitUtil(ExpectedConditions.elementToBeClickable(facilitySelect));
+    waitUntil(ExpectedConditions.elementToBeClickable(facilitySelect));
     Select facilitySelectBox = new Select(facilitySelect);
     facilitySelectBox.selectByVisibleText(facility);
     medicaidCheck.click();
